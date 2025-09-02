@@ -90,7 +90,6 @@ Building this portfolio helped me grow and solidify my understanding of several 
 
 ## 📸 Screenshots of My Work
 
-![Portfolio img](assets/port1.png)
 ![Portfolio img](assets/port2.png)
 ![Portfolio img](assets/port3.png)
 
